@@ -1,1 +1,3 @@
 # Text-Classification-with-Multinomial-and-Bernoulli-Naive-Bayes
+
+This exercise focuses on text classification using Multinomial and Bernoulli Naive Bayes models. Used dataset with sentences categorized into two classes: education and cinema. Each sentence represents a document, allowing us to demonstrate the effectiveness of these algorithms in distinguishing between different types of text. The process involves importing and preprocessing the data, followed by the construction of classification models. These models are versatile, providing valuable insights and automation for text-based Classification tasks.
